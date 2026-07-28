@@ -1,4 +1,4 @@
-# andrewboetsch
+# Andrew Boetsch
 
 Principal Product Manager focused on enterprise platforms, product discovery, workflow modernization, and AI-enabled applications.
 
