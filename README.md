@@ -33,7 +33,7 @@ The project also uses a multi-agent software-delivery model in which specialized
 
 My role includes defining the product concept, workflows, requirements, prioritization, UX direction, agent structure, testing approach, and release process. I also use Claude Code to build, test, and iterate on the application.
 
-**Repository:** [BlackBird CLM repository](https://github.com/andrewboetsch/blackbird-clm)
+**Repository:** [BlackBird CLM repository](https://github.com/andrewboetsch/blackbird-clm) <br>
 **Demo:** [Live demo](https://nextera-contracts.vercel.app/contracts)
 
 ---
