@@ -45,7 +45,7 @@ A production website for a boutique Florida real estate brokerage.
 I designed, built, launched, and maintain the website using Claude Code, GitHub, and Netlify. The work included product definition, information architecture, UX, content structure, development, deployment, SEO, and ongoing optimization.
 
 **Live site:** [kirklandrealty.co](https://kirklandrealty.co)  
-**Repository:** Add Kirkland Realty repository link here
+**Repository:** [Kirkland Realty repository ](https://github.com/andrewboetsch/kirkland-realty)
 
 ---
 
@@ -56,7 +56,7 @@ A production website for a home-watch and estate-services business serving seaso
 I designed and built the site end-to-end using Claude Code, including the brand structure, service architecture, UX, content, deployment, and ongoing maintenance.
 
 **Live site:** [colonyhomewatch.com](https://colonyhomewatch.com)  
-**Repository:** Add Colony Home Watch repository link here
+**Repository:** [Colony Home Watch repository](https://github.com/andrewboetsch/colony-homewatch)
 
 ## Product Leadership
 
