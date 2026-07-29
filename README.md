@@ -56,7 +56,7 @@ A production website for a home-watch and estate-services business serving seaso
 I designed and built the site end-to-end using Claude Code, including the brand structure, service architecture, UX, content, deployment, and ongoing maintenance.
 
 **Live site:** [colonyhomewatch.com](https://colonyhomewatch.com)  
-**Repository:** [Colony Home Watch repository](https://github.com/andrewboetsch/colony-homewatch)
+**Repository:** [Colony Home Watch repository](https://github.com/andrewboetsch/colony-home-watch)
 
 ## Product Leadership
 
