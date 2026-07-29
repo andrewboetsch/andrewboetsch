@@ -33,7 +33,6 @@ The project also uses a multi-agent software-delivery model in which specialized
 
 My role includes defining the product concept, workflows, requirements, prioritization, UX direction, agent structure, testing approach, and release process. I also use Claude Code to build, test, and iterate on the application.
 
-**Repository:** [BlackBird CLM repository](https://github.com/andrewboetsch/blackbird-clm) <br>
 **Demo:** [Live demo](https://blackbird-clm.vercel.app)
 
 ---
@@ -45,7 +44,6 @@ A production website for a boutique Florida real estate brokerage.
 I designed, built, launched, and maintain the website using Claude Code, GitHub, and Netlify. The work included product definition, information architecture, UX, content structure, development, deployment, SEO, and ongoing optimization.
 
 **Live site:** [kirklandrealty.co](https://kirklandrealty.co)  
-**Repository:** [Kirkland Realty repository ](https://github.com/andrewboetsch/kirkland-realty)
 
 ---
 
@@ -56,7 +54,6 @@ A production website for a home-watch and estate-services business serving seaso
 I designed and built the site end-to-end using Claude Code, including the brand structure, service architecture, UX, content, deployment, and ongoing maintenance.
 
 **Live site:** [colonyhomewatch.com](https://colonyhomewatch.com)  
-**Repository:** [Colony Home Watch repository](https://github.com/andrewboetsch/colony-home-watch)
 
 ## Product Leadership
 
